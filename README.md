@@ -2,6 +2,8 @@
 ## Description
 The purpose of this project was to configure a working Express.js API to use Sequelize to interact with a MySQL database. Users will be able to perform calls to get, create, update and delete data. <br />
 
+GitHub repository: https://github.com/ning1604/E-Commerce-Back-End
+
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
